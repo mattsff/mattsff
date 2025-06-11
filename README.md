@@ -17,6 +17,7 @@ Also interested in **blockchain technologies** and **machine learning**
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
 <br>
+<br>
 
 #### ⚙️ Frameworks and Libraries
 
@@ -27,6 +28,7 @@ Also interested in **blockchain technologies** and **machine learning**
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 <br>
+<br>
 
 #### 🧪 Testing
 <img align="left" alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white"/>
@@ -34,6 +36,7 @@ Also interested in **blockchain technologies** and **machine learning**
 <img align="left" alt="Mockito" src="https://img.shields.io/badge/Mockito-000000?style=for-the-badge&logo=mockito&logoColor=white"/>
 <img align="left" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 
+<br>
 <br>
 
 #### Tooling & Code Quality
