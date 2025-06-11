@@ -2,7 +2,7 @@
 
 I'm a Software Engineer specialized in **Mobile Development**, with a strong focus on **Android** and **React Native**.
 
-Currently exploring the **Full Stack** world with **Next.js, Node.js, and more**, while staying close to mobile.
+Currently exploring the **Full Stack** world with **Vue.js, Node.js, and more**, while staying close to mobile.
 
 Also interested in **blockchain technologies** and **machine learning**
 
